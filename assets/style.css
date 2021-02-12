@@ -82,7 +82,7 @@ a {
 #portrait {
     background-color: var(--accent);
     border: 1px solid white;
-    /* z-index: -1; */
+
 }
 
 #colorOverlay {
